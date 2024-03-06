@@ -1,0 +1,11 @@
+"group","cell_type","n","Percent"
+"keloid","Fibroblast cells",10299,0.432204456754375
+"keloid","Endothelial cells",10196,0.42788199253011
+"keloid","Epidermal stem cells",1883,0.0790213605270888
+"keloid","Macrophages",666,0.0279491376054388
+"keloid","Mast cells",785,0.0329430525829871
+"normal scar","Fibroblast cells",10567,0.500331439393939
+"normal scar","Endothelial cells",4635,0.219460227272727
+"normal scar","Epidermal stem cells",5041,0.238683712121212
+"normal scar","Macrophages",640,0.0303030303030303
+"normal scar","Mast cells",237,0.0112215909090909
